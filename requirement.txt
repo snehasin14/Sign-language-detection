@@ -1,0 +1,4 @@
+Python Installed on your System (I've python 3.10.5 version)
+Good System Requirement-Windows 10/11 64 Bits 4GB RAM+
+IDE(Integrated Development Environment) or cloud platform(I preferred VS CODE) 
+Python Libraries installed on your system (Numpy, matplotlib, seaborn , sklearn, tensorflow)
